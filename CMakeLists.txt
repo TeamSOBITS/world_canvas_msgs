@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
+
 project(world_canvas_msgs)
 
 find_package(catkin REQUIRED COMPONENTS std_msgs uuid_msgs geometry_msgs std_srvs message_generation)
